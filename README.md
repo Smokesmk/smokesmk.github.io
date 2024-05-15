@@ -7,7 +7,7 @@
 
  - [Projeto Android](https://smokesmk.github.io/repositorio-de-html-css/ex021/desafio.html) - `Esse projeto foi feito durante o curso de HTML e CSS do Curso em Vídeo, tive que fazer esse site na prática e foi muito gratificante fazê-lo`
 
- # Cursos Gratuitos
+# Cursos Gratuitos
 
  - [Curso de HTML e CSS - Curso em Vídeo](https://www.cursoemvideo.com/curso/html5-css3-modulo1/)
  - [Curso de Javascript - Curso em Vídeo](https://www.cursoemvideo.com/curso/javascript/)
