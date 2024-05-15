@@ -3,7 +3,7 @@
 
 # Meus Projetos Desenvolvidos
 
- <img align="right" src="/images/image.jpg" width="300px">
+ <img align="right" src="/images/image.jpg" width="150px">
 
  - [Projeto Android](https://smokesmk.github.io/repositorio-de-html-css/ex021/desafio.html) - `Esse projeto foi feito durante o curso de HTML e CSS do Curso em Vídeo, tive que fazer esse site na prática e foi muito gratificante fazê-lo`
 
