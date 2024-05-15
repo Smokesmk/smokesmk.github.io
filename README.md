@@ -1,5 +1,5 @@
 # Página do Perfil
- Página do meu perfil aqui do GitHub. Aqui onde mostrar publicamente tudo o que aprendi e aperfeiçoei na minha trajetória para o mercado de trabalho.
+ Página do meu perfil aqui do **GitHub**. Aqui onde irei mostrar publicamente tudo o que aprendi e aperfeiçoei na minha trajetória para o mercado de trabalho.
 
 # Cursos Gratuitos
 
