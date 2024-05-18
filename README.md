@@ -14,3 +14,4 @@
  <img align="right" src="/images/programador.png" width="200px">
 
  - [Projeto Android](https://smokesmk.github.io/repositorio-de-html-css/ex021/desafio.html) - `Esse projeto foi feito durante o curso de HTML e CSS do Curso em Vídeo, tive que fazer esse site na prática e foi muito gratificante fazê-lo.`
+ - [Projeto Cordel Moderno](https://smokesmk.github.io/repositorio-de-html-css/ex022/pacote-d012/index.html) - `Esse projeto foi feito durante o curso de HTML e CSS do Curso em Vídeo, tive que fazer esse site na prática e inovar com o efeito Paralax, e gostei muito do resultado. Claro, esse é o básico, porém, conforme irei avançando eu aprimorarei mais esse projeto.`
